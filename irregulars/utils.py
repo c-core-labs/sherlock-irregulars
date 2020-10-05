@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-<<DESCRIPTION OF SCRIPT>>
+Utilites
 """
 import logging
 

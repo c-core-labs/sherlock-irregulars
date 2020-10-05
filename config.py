@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-<<DESCRIPTION OF SCRIPT>>
+Config Information
 """
 import logging
 import os
